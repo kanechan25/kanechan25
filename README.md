@@ -20,17 +20,16 @@
 ---
   
 ### 🛠 Languages and Tools:
-
+- Passionate about ICT
+- 2021 Goals: Learning more many things about ICT
 ---
 
-### 🖥 YouTube Videos
+### 🖥 My Channel YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #2: CLASS VARIABLES VÀ INSTANCE VARIABLES LÀ GÌ ?](https://www.youtube.com/watch?v=8EhLApRAt-g)
-- [CẤU TRÚC DỮ LIỆU GIẢI THUẬT #8: BIG O NOTATION - ĐỘ PHỨC TẠP VỀ THỜI GIAN (TIME COMLEXITY)](https://www.youtube.com/watch?v=Dgs9zl9Wh3s)
-- [LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG PYTHON #1: CLASS , INSTANCE , HÀM CONSTRUCTOR](https://www.youtube.com/watch?v=bJ29iS8mpQs)
-- [LẬP TRÌNH PYTHON CƠ BẢN #21: TRY/EXCEPT BLOCKS FOR ERROR HANDLING](https://www.youtube.com/watch?v=aMowOFOibmY)
-- [HIỂU NGAY LẬP TRÌNH HƯỚNG ĐỐI TƯỢNG ( OBJECT ORIENTED PROGRAMMING )](https://www.youtube.com/watch?v=BkrXq-5H-Xg)
+- [VIDEO SERIES ON MY CHANNEL: C# TIPS](https://www.youtube.com/watch?v=IXaVxcmtZks&t=90s&ab_channel=BIMProgress)
+- [VIDEO SERIES : BIM 5D SOFTWARE](https://www.youtube.com/playlist?list=PLJPnxfYoe9IqRw9Rt-lozInuOH0PVOBKR)
+- [VIDEO SERIES : VBA EXCEL](https://www.youtube.com/playlist?list=PLJPnxfYoe9IruY9Pfd7gx1d4PIVPR3hxq)
 <!-- YOUTUBE:END -->
 
 ---
