@@ -1,11 +1,11 @@
-### Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [BIM Progress] BIM Technician + Developer 🌻  
+# Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [BIM Progress] BIM Technician + Developer 
 
 
-- 🔭 Passionate about ICT 😊
+- 🔭 Passionate about ICT
 - 💪 2021 Goals: Learning more many things about ICT
-- ⭐: Reading, listening, walking, humour... 😅
+- ⭐: Reading, listening, walking, humour...
 
-### :zap: GitHub Stats
+## :zap: GitHub Stats
 
 <table>
 <tr>
@@ -36,5 +36,8 @@
 ---
 
 ### 📫 Contact me via:
-- EMAIL: lathanhmta@gmail.com
-- YOTUBE: THÀNH IT
+- kanechan.civilengineer@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/kanechan2593/)
+- [Facebook](https://www.facebook.com/khoa2425/)
+- [Reading for funny](https://ngoatv.blogspot.com/)
+### © 2021 kanechan25
