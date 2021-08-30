@@ -16,16 +16,11 @@
   <td width="50%"><img alt="gif" align="right" src="coding-freak.gif"/></td>
 </tr>
 <table>
-
+  
+---
+  
 ### 🛠 Languages and Tools:
-<!-- Languages:START -->
-  
-<img align="right" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png" /> 
-<img align="right" alt="C#" width="30px" src="https://miro.medium.com/max/300/1*A_Hg7NPIoARg0RmdsVapqg.png" /> 
-<img align="right" alt="NetBean" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1200px-Apache_NetBeans_Logo.svg.png" />
-<img align="right" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<!-- Languages:END -->
-  
+
 ---
 
 ### 🖥 YouTube Videos
