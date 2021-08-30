@@ -29,7 +29,7 @@
 ### 🖥 My Channel YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [VIDEO SERIES ON MY CHANNEL: C# TIPS](https://www.youtube.com/watch?v=IXaVxcmtZks&t=90s&ab_channel=BIMProgress)
+- [VIDEO SERIES : C# TIPS](https://www.youtube.com/watch?v=IXaVxcmtZks&t=90s&ab_channel=BIMProgress)
 - [VIDEO SERIES : BIM 5D SOFTWARE](https://www.youtube.com/playlist?list=PLJPnxfYoe9IqRw9Rt-lozInuOH0PVOBKR)
 - [VIDEO SERIES : VBA EXCEL](https://www.youtube.com/playlist?list=PLJPnxfYoe9IruY9Pfd7gx1d4PIVPR3hxq)
 <!-- YOUTUBE:END -->
