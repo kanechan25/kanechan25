@@ -1,19 +1,19 @@
-### Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [BIM Progress][website] = BIM Technician + Developer 🌻  
+### Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -  [BIM Progress] BIM Technician + Developer 🌻  
 
 
-- 🔭 Passion in something ... (secret😊)
-- 💪 2021 Goals: Learning many things in Python
-- ⭐: Reading, listening, walking, running, playing piano... and blade wind😅
+- 🔭 Passionate about ICT 😊
+- 💪 2021 Goals: Learning more many things about ICT
+- ⭐: Reading, listening, walking, humour... 😅
 
 ### :zap: GitHub Stats
 
 <table>
 <tr>
-  <td width="48%">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
+  <td width="50%">
+    <img src="https://github-readme-stats.vercel.app/api?username=kanechan25&show_icons=true&hide=contribs,issues&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanechan25&layout=compact&show_icons=true&hide_border=true" />
   </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
+  <td width="50%"><img alt="gif" align="right" src=".github/assets/coding-freak.gif"/></td>
 </tr>
 <table>
 
