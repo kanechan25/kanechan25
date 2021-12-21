@@ -37,7 +37,7 @@
 ---
 
 ### <img src="https://github.com/kanechan25/kanechan25/blob/main/logo_transparent_ok.png" width="25px"> 📫 Contact me via:
-- kanechan.civilengineer@gmail.com
+- kt.itengineer@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/kanechan2593/)
 - [Facebook](https://www.facebook.com/khoa2425/)
 - [Reading for funny](https://ngoatv.blogspot.com/)
