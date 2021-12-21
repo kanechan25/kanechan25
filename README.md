@@ -1,9 +1,9 @@
 # <img src="https://github.com/kanechan25/kanechan25/blob/main/logo_transparent_ok.png" width="25px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - BIM Technician - Developer 
 
 
-- 🔭 Passionate about ICT
-- 💪 2021 Goals: Learning more many things about ICT
-- ⭐ Reading, listening, walking, humour...
+- 🔭 Passionate about Web Development.
+- 💪 English level: Good in 4 skills (L, R, W, S)
+- ⭐ 2 of the most outstanding advantages: self-study ability & working under intense pressure.
 
 ## <img src="https://github.com/kanechan25/kanechan25/blob/main/logo_transparent_ok.png" width="25px"> :zap: GitHub Stats
 
