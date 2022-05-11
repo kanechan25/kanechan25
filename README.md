@@ -22,8 +22,8 @@
 ### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> Languages and Tools
 - Programming:  
  <br /><img alt="C#" width="30px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/C%20sharp.png" /> &nbsp; <img alt="html" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/html2.png" /> &nbsp; <img alt="css" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/css2.png" /> &nbsp; <img alt="js" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/jss2.png" /> &nbsp; <img alt="Python" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/python.png" /> &nbsp; <img alt="sql" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/sql-server.png" /> &nbsp; <img alt="vb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/vb.png" />  
-- BIM Software:   
- <br /> <img alt="autodesk" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/Autodesk.png" /> &nbsp; <img alt="Revit" width="28px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/revit.png" /> &nbsp; <img alt="cubicost" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/cubic.png" />
+- Libraries, frameworks and  platforms:   
+ <br /> <img alt="react" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/react js.png" /> &nbsp; <img alt="redux" width="28px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/redux-react.png" /> &nbsp; <img alt="nodejs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/node-js.png" />
 - Others:
  <br /> <img alt="photoshop" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/adobe-photoshop-logo.png" /> &nbsp;
   
@@ -32,8 +32,8 @@
 ### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> My Channel YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [VIDEO : ABOUT ME](https://www.youtube.com/playlist?list=PLJPnxfYoe9IqRw9Rt-lozInuOH0PVOBKR)
 - [VIDEO SERIES : C# TIPS](https://www.youtube.com/watch?v=IXaVxcmtZks&t=90s&ab_channel=BIMProgress)
-- [VIDEO SERIES : BIM 5D SOFTWARE](https://www.youtube.com/playlist?list=PLJPnxfYoe9IqRw9Rt-lozInuOH0PVOBKR)
 - [VIDEO SERIES : VBA EXCEL](https://www.youtube.com/playlist?list=PLJPnxfYoe9IruY9Pfd7gx1d4PIVPR3hxq)
 <!-- YOUTUBE:END -->
 
