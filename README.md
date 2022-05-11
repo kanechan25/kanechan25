@@ -1,9 +1,9 @@
-# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> BIM Technologist - Web Developer 
+# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> A Web Developer 
 
 
 - 🔭 I am passionate about Web Development.
 - ⭐ English level: Good in 4 skills (L, R, W, S)
-- 💪 Two of the most outstanding advantages: self-study ability & working under intense pressure.
+- 💪 The most outstanding advantages: self-study ability & working under intense pressure.
 
 ## <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> GitHub Stats
 
