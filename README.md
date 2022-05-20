@@ -24,6 +24,8 @@
  <br /><img alt="C#" width="30px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/C%20sharp.png" /> &nbsp; <img alt="html" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/html2.png" /> &nbsp; <img alt="css" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/css2.png" /> &nbsp; <img alt="js" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/jss2.png" /> &nbsp; <img alt="Python" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/python.png" /> &nbsp; <img alt="sql" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/sql-server.png" /> &nbsp; <img alt="vb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/vb.png" />  
 - Libraries, frameworks and  platforms:   
  <br /> <img alt="react" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/react js.png" /> &nbsp; <img alt="redux" width="28px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/redux-react.png" /> &nbsp; <img alt="nodejs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/node-js.png" />
+- Software:
+  <br /> vscode, mongodb, mysql, postman &nbsp;
 - Others:
  <br /> <img alt="photoshop" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/programming%20languages/adobe-photoshop-logo.png" /> &nbsp;
   
