@@ -1,11 +1,11 @@
-# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> A Full-stack Web Developer 
+# <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="30px"> Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px"> A Full-stack Web Developer 
 
 
 - 🔭 I am passionate about Web Development.
 - ⭐ English level: Good in 4 skills (L, R, W, S)
 - 💪 The most outstanding advantages: self-study ability & working under intense pressure.
 
-## <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> GitHub Stats
+## <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> GitHub Stats
 
 <table>
 <tr>
@@ -19,7 +19,7 @@
   
 ---
   
-### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> Technologies and Tools
+### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> Technologies and Tools
 
 <br>
 <!-- https://simpleicons.org/ -->
@@ -68,7 +68,7 @@
   
 ---
 
-### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> 📫 Contact me via:
+### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> 📫 Contact me via:
   <a href="https://www.linkedin.com/in/khoatran2425/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="khoatran2425-linkedin" />
   </a>
@@ -84,4 +84,4 @@
 
 - kt.itengineer@gmail.com
 - [Reading for funny (Vietnamese)](https://ngoatv.blogspot.com/)
-### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_transparent_ok.png" width="25px"> © 2022 kanechan25
+### <img src="https://github.com/kanechan25/kanechan25/blob/main/img/interface/logo_ce2dev.png" width="25px"> © 2022 kanechan25
