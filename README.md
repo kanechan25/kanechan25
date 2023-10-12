@@ -22,15 +22,21 @@
 ### 🛠 Languages and Tools
 - Coding & Programming:  
  <br /> 
-<img alt="react" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/react.png" /> &nbsp; <img alt="nextjs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/nextjs.png" /> &nbsp;<img alt="redux" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/redux.png" /> &nbsp;<img alt="nodejs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/nodejs.png" /> &nbsp; <img alt="express" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/express.png" /> &nbsp; <img alt="js" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/js.png" /> &nbsp; <img alt="ts" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/ts.png" /> &nbsp; <img alt="csharp" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/csharp.png" /> &nbsp; <img alt="vb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/vb.png" /> &nbsp; <img alt="scss" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/scss.png" /> &nbsp; 
+ <div style="display: flex; flex-direction: row;" > 
+  <img alt="react" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/react.png" />  <img alt="nextjs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/nextjs.png" /> <img alt="redux" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/redux.png" /> <img alt="nodejs" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/nodejs.png" />  <img alt="express" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/express.png" />  <img alt="js" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/js.png" />  <img alt="ts" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/ts.png" />  <img alt="csharp" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/csharp.png" />  <img alt="vb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/vb.png" />  <img alt="scss" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/scss.png" />  
+ </div>
 
  <br /> 
-<img alt="aws" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/aws.pngg" /> &nbsp; <img alt="mySQL" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/mysql.png" /> &nbsp; <img alt="mongdb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/mongodb.png" /> &nbsp;
- 
- <br /> 
-- Other Skills"
-<img alt="figma" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/figma.png" />  &nbsp; <img alt="pts" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/ptsh.png" />  &nbsp; <img alt="ms" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/msoffice.png" />  &nbsp;
- 
+  <div style="display: flex; flex-direction: row;" >
+  <img alt="aws" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/aws.png" /> &nbsp; <img alt="mySQL" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/mysql.png" /> &nbsp; <img alt="mongdb" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/mongodb.png" /> &nbsp;
+  </div>
+   <br /> 
+
+- Other Skills:
+ <div style="display: flex; flex-direction: row;" >
+  <img alt="figma" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/figma.png" />  &nbsp; <img alt="pts" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/ptsh.png" />  &nbsp; <img alt="ms" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/msoffice.png" />  &nbsp;
+  
+ </div>
 ---
 
 ### 🖥 My Channel YouTube Videos
