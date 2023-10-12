@@ -37,7 +37,8 @@
   <img alt="figma" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/figma.png" />  &nbsp; <img alt="pts" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/ptsh.png" />  &nbsp; <img alt="ms" width="26px" src="https://github.com/kanechan25/kanechan25/blob/main/img/techstack/msoffice.png" />  &nbsp;
   
  </div>
----
+
+ <br /> 
 
 ### 🖥 My Channel YouTube Videos
 
@@ -51,7 +52,7 @@
 
 ### 📫 Contact me via:
 - kt.itengineer@gmail.com
-- [My Web](https://khoatran25.vercel.app)
+- [My Web portfolio](https://khoatran25.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/khoatran2425)
 - [Youtube](https://www.youtube.com/c/CE2Dev)
 - [Reading for funny](https://ngoatv.blogspot.com/)
