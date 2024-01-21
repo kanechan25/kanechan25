@@ -1,7 +1,7 @@
 # Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - Full-stack Web Developer 
 
 
-- 🔭 Passionate about Web2 and Web3 Development (React.js, Node.js, SQL, MongoDB, ...).
+- 🔭 Passionate about Web2 and Web3 Development (React, Vue, Node, GraphQL, MongoDB, ...).
 - 💪 English level: Good in 4 skills (L, R, W, S)
 - ⭐ 2 of the most outstanding advantages: self-study ability & working under intense pressure.
 
