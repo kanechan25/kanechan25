@@ -56,4 +56,4 @@
 - [LinkedIn](https://www.linkedin.com/in/khoatran2425)
 - [Youtube](https://www.youtube.com/c/CE2Dev)
 - [Reading for funny](https://ngoatv.blogspot.com/)
-### © 2023 kanechan25
+### © 2024 kanechan25
