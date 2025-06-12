@@ -1,4 +1,5 @@
-# Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> - Senior Frontend-focused Fullstack Web Engineer
+# Hi, I'm Khoa Tran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
+# Senior Frontend-focused Fullstack Web Engineer
 
 
 - 🔭 Passionate about Web3 Development (React, Node, EVM, Solana, ...).
