@@ -2,9 +2,17 @@
 # Senior Frontend-focused Fullstack Web Engineer
 
 
-- 🔭 Passionate about Web3 Development (React, Node, EVM, Solana, ...).
-- 💪 English level: Good in 4 skills (L, R, W, S)
+- 🔭 Passionate about Web Development (MERN/SERN stacks, NextJS-NestJS, EVM/Non-EVM Compatible).
 - ⭐ 2 of the most outstanding advantages: self-study ability & working under intense pressure.
+
+
+<table>
+<tr>
+  <td width="60%">
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanechan25&layout=compact&theme=transparent&hide_border=true" />
+  </td>
+</tr>
+<table>
  
 ---
 
