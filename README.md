@@ -22,4 +22,4 @@
 - [LinkedIn](https://www.linkedin.com/in/khoatran2425)
 - [Youtube](https://www.youtube.com/c/CE2Dev)
   
-### © 2021 kanechan25
+### © kanechan25
